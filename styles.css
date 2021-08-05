@@ -101,9 +101,6 @@ section{
     padding-top: 1rem;
     padding-bottom: 2.5rem;
 }
-/* section h3{
-    text-align: center;
-} */
 .ow{
     background-color: var(--off-white);
 }
@@ -119,7 +116,7 @@ footer{
 footer .link{
     color: white;
 }
-footer ul{
+ul{
     padding-inline-start: 0;
 }
 .footer-header{
@@ -127,7 +124,7 @@ footer ul{
     font-size: x-large;
 }
 li{
-    padding: 0rem 0.5rem;
+    padding: 0rem 0.2rem;
 }
 
 .section-blog{
