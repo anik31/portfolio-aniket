@@ -53,6 +53,7 @@ nav{
     background-color: var(--primary-color);
     border-bottom-left-radius: 2rem ;
     padding: 2rem;
+    padding-right: 0.5rem ;
     padding-bottom: 0.5rem;
     color: white;
 }
