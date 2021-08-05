@@ -27,16 +27,21 @@ hr{
     text-decoration: none;
     padding: 0.5rem 1rem;
     margin-bottom: 0.5rem;
+    text-align: center;
 }
 .link-primary{
     background-color: var(--primary-color);
     color: white;
     border-radius: 0.5rem;
+    display: block;
+    max-width: 100px;
 }
 .link-secondary{
     color: var(--primary-color);
     border: 1px solid var(--primary-color);
     border-radius: 0.5rem;
+    display: block;
+    max-width: 100px;
 }
 
 /* lists */
@@ -122,9 +127,10 @@ footer ul{
     font-size: x-large;
 }
 li{
-    padding: 0rem 1rem;
+    padding: 0rem 0.5rem;
 }
 
 .section-blog{
-    padding: 4rem 0rem;
+    padding-top: 4rem;
+    padding-bottom: 4rem;
 }
