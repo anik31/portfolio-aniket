@@ -134,3 +134,16 @@ li{
 .section-project{
     padding: 1rem 0rem;
 }
+.blog-img{
+    width:100%;
+}
+code{
+    display: block;
+    font-size: 15px;
+}
+.code-container{
+    background-color: #eee;
+  border: 1px solid #999;
+  display: block;
+  padding: 20px;
+}
